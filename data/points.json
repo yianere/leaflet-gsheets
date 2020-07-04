@@ -47,5 +47,14 @@
    "category": "Coffee Shop",
    "location": "Barcelona",
    "level": "Local"
+ },
+ 
+ {
+   "lat": 45,
+   "long": -103,
+   "category": "Yian",
+   "location": "Yian",
+   "level": "Local"
  }
+ 
 ]
